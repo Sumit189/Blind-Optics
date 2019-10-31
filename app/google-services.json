@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336751866358",
+    "firebase_url": "https://blind-optics.firebaseio.com",
+    "project_id": "blind-optics",
+    "storage_bucket": "blind-optics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336751866358:android:8d1736f467e446b4f897d7",
+        "android_client_info": {
+          "package_name": "com.sumit.blindoptics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336751866358-lno0m1p2qorqt1e92s815p992gugkaqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumit.blindoptics",
+            "certificate_hash": "c49968ab36ae5d81b15ca00595ec6fe29435a0d8"
+          }
+        },
+        {
+          "client_id": "336751866358-iu05i43nlg11sci9oo8bb39ibjcnt7lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIMsbnpK-S4q35nk4S9RYKY-2yPDU-CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336751866358-iu05i43nlg11sci9oo8bb39ibjcnt7lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
